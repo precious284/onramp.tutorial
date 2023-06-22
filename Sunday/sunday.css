@@ -1,0 +1,25 @@
+body{
+    background-color: brown;
+}
+div{
+    background-color: white;
+margin-left: 15%;
+}
+.one{
+    text-align: center;
+}
+.three{
+    margin-left: -15%;
+    padd
+}
+.four{
+    background-color: red;
+    margin-left: -2%;
+    display: inline;
+}
+button{
+text-align: center;
+cursor: pointer;
+padding: 40;
+margin-left: 50%;
+}

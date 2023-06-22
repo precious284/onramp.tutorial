@@ -1,0 +1,26 @@
+.header-wrapper{
+    background-color: blue;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    font-weight: 600;
+    color: black;
+}
+h2{
+    background-color: aquamarine;
+    font-size: 30px;
+    font-weight: 500;
+    color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h3{background-color: red;
+}
+.sub-wrapper{
+    background-color: pink;
+}
+.sub-topic{
+    font-size: 50px;
+    font-weight: 500;
+
+}
